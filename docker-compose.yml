@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image: amitabhdevops/notes-app:latest
+     image: amitabhdevops/todo-note-app:latest
      ports :
          - "8000:8000"
